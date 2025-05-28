@@ -1,0 +1,29 @@
+{
+  "name": "meg.js",
+  "version": "0.1.0",
+  "description": "A lightweight JavaScript library for creating games with Canvas.",
+  "main": "src/engine.js",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 1"
+  },
+  "keywords": [
+    "game-engine",
+    "canvas",
+    "javascript",
+    "2d",
+    "game-development"
+  ],
+  "author": "PhixAlek",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PhixAlek/MEG.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PhixAlek/MEG.js/issues"
+  },
+  "homepage": "https://github.com/PhixAlek/MEG.js#readme",
+  "dependencies": {
+    "meg.js": "file:"
+  }
+}
